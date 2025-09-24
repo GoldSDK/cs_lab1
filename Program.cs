@@ -6,7 +6,7 @@ namespace cs_lab1
     {
         static void Main(string[] args)
         {
-            OmniClass tasks = new OmniClass();
+            Tasks tasks = new Tasks();
 
             while (true)
             {
@@ -251,4 +251,5 @@ namespace cs_lab1
             }
         }
     }
+
 }
