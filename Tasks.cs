@@ -5,7 +5,7 @@ using System.Text;
 
 namespace cs_lab1
 {
-    class OmniClass
+    class Tasks
     {
         public double fraction(double x)
         {
@@ -247,3 +247,4 @@ namespace cs_lab1
         }
     }
 }
+
